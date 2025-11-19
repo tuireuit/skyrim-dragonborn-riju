@@ -4,7 +4,7 @@ int main() {
      int n;
      printf("Enter the value of n = ");
      scanf("%d",&n);
-     printf("C%dH%dOH",n,2*n+1);
+     printf("C%dH%dOH",n,2*n+1);   //completed without using subscript
     return 0;
 }
 
@@ -17,3 +17,4 @@ C n H 2n+1 OH.
 
 Write a C program that would take the value of n as input and
 print the corresponding simple alcohol formula.*/
+
