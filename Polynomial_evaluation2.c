@@ -11,6 +11,9 @@ int main()
     return 0;
 
 
+/*Modify the program of the last polynomial evaluation task so that the polynomial is evaluated using the following formula:
+((((3x-2)x+5)x+1)x-7)x+6
+*/
 
 
 }
