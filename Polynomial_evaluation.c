@@ -10,6 +10,12 @@ int main()
     printf("Value of the polynomial for x= %.2f",y);
     return 0;
 
+/*(Write a C program that asks the user to enter the value of x and outputs the value of the following polynomial:
+3x5-2x4+5x3+x2-7x+6
+Sample run:
+Enter value of x: 2
+Value of the polynomial for x=2: 100.00)*/
+
 
 
 
